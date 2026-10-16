@@ -1,0 +1,19 @@
+{"items":[
+{"key":"StickerTitle_NotSoAngry","value":"Not So Angry"},
+{"key":"StickerDescription_NotSoAngry","value":"When applied will nerf the birds' Anger Speed, Anger Meter and Stun Duration."},
+
+{"key":"PST_PRI_Red1","value":"Red"},
+{"key":"PST_PRI_Red2","value":"One of the <b>ANGRIEST</b> bird known to somekind, he'll let out his anger loud enough pushing anyone his way."},
+{"key":"PST_PRI_Chuck1","value":"Chuck"},
+{"key":"PST_PRI_Chuck2","value":"Second hand to Red, also the fastest thing alive! So fast in fact he even can slow or stop time when it's time."},
+
+{"key":"Vfx_BRD_Call","value":"[CALLS]"},
+{"key":"Vfx_BRD_Laughs","value":"[LAUGHS]"},
+{"key":"Vfx_BRD_Angered","value":"[ANGERED]"},
+{"key":"Vfx_BRD_Smirks","value":"[SMIRKS]"},
+{"key":"Vfx_BRD_Exhausted","value":"[EXHAUSTED]"},
+{"key":"Vfx_BRD_Stumped","value":"[STUMPED]"},
+{"key":"Vfx_BRD_Damage","value":"[HMPHS]"},
+{"key":"Vfx_BRD_Mumbles","value":"[MUMBLES]"},
+{"key":"Vfx_BRD_AngryGrunt","value":"[ANGRILY GRUNTS]"}
+]}
